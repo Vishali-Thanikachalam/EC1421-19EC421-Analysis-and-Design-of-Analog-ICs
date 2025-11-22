@@ -25,6 +25,7 @@ LT-Spice
 ## CIRCUIT DIAGRAM:
 ### SCHMITT TRIGGER:
 
+<img width="573" height="631" alt="image" src="https://github.com/user-attachments/assets/198b5ab1-d4a3-41c0-ace4-a7a871f51ab3" />
 
 ## OUTPUT GRAPH:
 ### SCHMITT TRIGGER:
