@@ -18,10 +18,15 @@ LT-Spice
 ## CIRCUIT DIAGRAM:
 ### INVERTING AMPLIFIER:
 
+<img width="1102" height="822" alt="image" src="https://github.com/user-attachments/assets/db0c73f7-92a3-4fc9-b20e-fe755ac69f3c" />
+
 ### NON-INVERTING AMPLIFIER:
+
+<img width="1301" height="694" alt="image" src="https://github.com/user-attachments/assets/37959243-2068-42dd-aef4-228893e0a1ec" />
 
 ### DIFFERENTIAL AMPLIFIER:
 
+<img width="1261" height="876" alt="image" src="https://github.com/user-attachments/assets/1537e3f0-979f-4e1c-8313-c8b1c1493c0d" />
 
 ## OUTPUT GRAPH:
 ### INVERTING AMPLIFIER:
